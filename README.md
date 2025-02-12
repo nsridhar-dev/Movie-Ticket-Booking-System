@@ -13,7 +13,7 @@ Features
 ✅ Booking Confirmation – Generates a digital receipt for users
 ✅ Database Management – Uses MySQL & JDBC for efficient data handling
 
-Technologies Used 
+Technologies Used :
 Java Swing – GUI development
 JDBC – Database connectivity
 MySQL – Data storage & management
