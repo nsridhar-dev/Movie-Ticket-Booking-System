@@ -5,3 +5,15 @@ Then we select the Movie and later in which Theatre movie is running. Later choo
 Finally it displays the details of the procedure and print the form to show at respective ticket counter to get ticket. 
 
 
+Features 
+✅ User Authentication – Register & login securely
+✅ Movie Selection – Choose from multiple movies, theaters, and time slots
+✅ Real-time Seat Availability – Tracks & updates available seats dynamically
+✅ Payment Integration – Supports Credit/Debit Cards, Net Banking, Paytm Wallet
+✅ Booking Confirmation – Generates a digital receipt for users
+✅ Database Management – Uses MySQL & JDBC for efficient data handling
+
+Technologies Used 
+Java Swing – GUI development
+JDBC – Database connectivity
+MySQL – Data storage & management
